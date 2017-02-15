@@ -1,0 +1,28 @@
+*{
+  font-size: 200px;
+  text-align: center;
+}
+.backgroundDiv{
+    height: 100vh;
+    /*background-size: 100vw 100vh;*/
+    background-size: contain;
+    background-attachment: fixed;
+}
+
+.contentDiv{
+  background-color: black;
+  opacity: 0.2;
+  color: white;
+  border-bottom: 1px solid black;
+  height: 100vh;
+}
+
+#apple{
+  background-image: url("https://staticdelivery.nexusmods.com/mods/110/images/74627-0-1459502036.jpg");
+}
+#banana{
+  background-image: url("http://www.bbcgoodfood.com/sites/default/files/glossary/banana-crop.jpg");
+}
+#rihanna{
+  background-image: url("http://caribbeannewsservice.com/now/wp-content/uploads/2016/08/rihanna-anti.jpg");
+}
